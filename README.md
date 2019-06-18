@@ -1,1 +1,1 @@
-Aplicativo feito em Flutter para buscar e compartilhar gifs específicos.
+A app made in flutter for search and share specific gifs.
